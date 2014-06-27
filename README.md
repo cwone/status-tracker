@@ -4,7 +4,7 @@ status-tracker
 Introduction
 ------------
 
-First release of script to monitor the whatsapp status of a user. It then emails status changes with the associate timestamp.
+First release of script to monitor the whatsapp status of a user. It then emails status changes with the associate timestamp. Script could benefit by the integration with an SQLITE database. 
 
 Credits
 -------
