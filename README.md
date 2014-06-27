@@ -4,12 +4,12 @@ status-tracker
 Introduction
 ------------
 
-First release of script to monitor a whatsapp status of a user. Script then emails status changes.
+First release of script to monitor the whatsapp status of a user. It then emails status changes with the associate timestamp.
 
 Credits
 -------
 
-The author would like to thank Dr Y.  for providing the inspiration for the creation of teh script
+The author would like to thank Dr Y.  for providing the inspiration for the creation of the script
 
 Disclaimer
 ----------
